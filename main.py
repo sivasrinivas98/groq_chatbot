@@ -1,6 +1,8 @@
 import os
 from groq import Groq
 
+
+#BCDE
 #  API key here
 API_KEY = "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"  
 
